@@ -1,0 +1,26 @@
+header{
+    background-color: #f0f0f0;
+    position: fixed;
+    top: 0;
+    width: 16%;
+    padding: 10PX;
+}
+article{
+    width: 60%;
+    margin: 20px auto;
+    background-color: #e0e0e0;
+    padding: 15px;
+}
+aside{
+    width: 30%;
+    margin: 20px auto;
+    background-color: #d0d0d0;
+    padding: 15px;
+    position:relative;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #c0c0c0;
+    padding: 10px;
+}
